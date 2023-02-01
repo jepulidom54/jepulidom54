@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jepulidom54
 - 👀 I’m interested in Seismology intrumentation and data procesing focussed in OBS and DAS
-- 🌱 I’m currently learning Machine Learning for Geoscientist and Inverse Theory Problem Solving
+- 🌱 I’m currently into Machine Learning for Geoscientist and Inverse Theory Problem Solving
 - 💞️ I’m looking to work in projects of Blue Carbon
 - 📫 How to reach me jepulidom@unal.edu.co 
 
